@@ -102,7 +102,7 @@ nav li a:hover {
 */
 
 .slider {
-    background-image: url("/resources/assets/img/bg123.jpg");
+    background-image: url(../img/bg123.jpg);
     height: 899px;
 }
 
@@ -444,35 +444,35 @@ iframe {
 
 .postu1 {
     grid-column: 1/2;
-    background-image: url(/resources/assets/img/postu1.jpg);
+    background-image: url(../img/postu1.jpg);
     
 }
 
 .postu2 {
     grid-column: 2/3;
-    background-image: url(/resources/assets/img/postu2.jpg);
+    background-image: url(../img/postu2.jpg);
 }
 
 .postu3 {
     grid-column: 3/4;
-    background-image: url(/resources/assets/img/postu3.jpg);
+    background-image: url(../img/postu3.jpg);
 }
 
 .postu4 {
     grid-column: 4/5;
-    background-image: url(/resources/assets/img/postu4.jpg);
+    background-image: url(../img/postu4.jpg);
 }
 
 .postu5 {
     grid-column: 5/6;
-    background-image: url(/resources/assets/img/postu5.jpg);
+    background-image: url(../img/postu5.jpg);
 }
 
 /**/
 
 .slogan {
     height: 500px;
-    background-image: url(/resources/assets/img/bgslogan.jpg);
+    background-image: url(../img/bgslogan.jpg);
     display: flex;
     align-items: center;
     justify-content: center;
